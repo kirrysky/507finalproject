@@ -1,6 +1,7 @@
 # 507FinalProject
 
-####Data Source:
+Data Source:
+--------------------------------------
   1.Firstly, I will crawl all the decks of each hero from http://www.hearthstonetopdecks.com/deck-category/deck-class/  and add hero to this baseurl. for example, like http://www.hearthstonetopdecks.com/deck-category/deck-class/druid/ For this page, there are all the decks that could be used by this hero, and there is a score number beside each deck name to show where this deck is popular.<br>
   2.Then I will rank them to find top 10 favorite decks of each hero. And crawl each specific deck composition and get each card’s name and kind of the card(classic or neutral),, for example, like http://www.hearthstonetopdecks.com/decks/zarathustras-cthun-spiteful-druid/<br>
   3.After that I will crawl each card of the deck to get more information. For example, I will crawl http://www.hearthstonetopdecks.com/cards/enchanted-raven/ this druid’s card to get the mana cost of it, attack value and health value and etc.<br>
@@ -8,11 +9,13 @@
   Data source challenge score:<br>
   I will crawling [and scraping] multiple pages in a site you haven’t used before(As I describe above). So the total challenge score is 8.<br>
 
-####Any other information needed to run the program:
+Any other information needed to run the program:
+--------------------------------------
   1.Using flask virtual environment<br>
   2.Install all packages in the requirements<br>
 
-####Structure:
+Structure:
+--------------------------------------
   My codes are divided into five parts, GetData.py, Database.py, DataProcessing.py, Test.py and DataPresentation.py.<br>
 <br>
   GetData.py includes are used to crawl data from http://www.hearthstonetopdecks.com/ ,there are three main functions :<br>
@@ -44,7 +47,8 @@
     deck: used to show crystal_usage, attack_health and composition of the deck<br>
     getchart: used to get correct chart from plotly<br>
 
-####Brief Guide
+Brief Guide:
+--------------------------------------
   1.first input "source finalproj/bin/activate" in command line to activate the virtual environment.<br>
   2.install all required files that requirements.txt, for example plotly<br>
   2.run DataPresentation.py as "python DataPresentation.py" in command line<br>
