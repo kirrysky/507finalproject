@@ -59,32 +59,6 @@ def process_crystal_usage(deck_name,kind):
 
     return results
 
-def process_crystal_usage(deck_name,kind):
-    results=[]
-    try:
-        conn = sqlite3.connect(DBNAME)
-        cur = conn.cursor()
-    except Error as e:
-        print(e)
-
-    statement = 'SELECT ManaCost,Count(*) '
-    statement += 'FROM Compositions '
-    statement += 'JOIN Cards '
-    statement += 'On Compositions.CardId=Cards.Id '
-    statement += 'WHERE DeckName=? AND Kind=?'
-    statement += 'GROUP BY ManaCost '
-
-    param=(deck_name,kind)
-    cur.execute(statement, param)
-
-    for row in cur:
-        results.append(row)
-
-    conn.commit()
-    conn.close()
-
-    return results
-
 def process_attack_or_health_usage(deck_name,ability):
     results=[]
     try:
