@@ -1,40 +1,46 @@
 {
     "druid": [
         {
+            "deckname": "Cube Taunt Druid Deck List Guide \u2013 The Witchwood \u2013 April 2018",
+            "deckaddress": "http://www.hearthstonetopdecks.com/decks/cube-taunt-druid-deck-list-guide/",
+            "deckbuildfee": 8600,
+            "deckscore": 2
+        },
+        {
             "deckname": "SkyWalker\u2019s Witchwood Aggro Taunt Druid",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/skywalkers-witchwood-aggro-taunt-druid/",
             "deckbuildfee": 2120,
-            "deckscore": 30
+            "deckscore": 33
         },
         {
             "deckname": "Nostam\u2019s Witchwood #5 Legend Toggwaggle Druid",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/nostams-witchwood-5-legend-toggwaggle-druid/",
             "deckbuildfee": 6920,
-            "deckscore": 11
+            "deckscore": 12
         },
         {
             "deckname": "Sjow\u2019s Witchwood Cube Taunt Druid ft. Master Oakheart, Spiritsinger Umbra",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/sjows-witchwood-cube-taunt-druid-ft-master-oakheart-spiritsinger-umbra/",
             "deckbuildfee": 10640,
-            "deckscore": 21
+            "deckscore": 22
         },
         {
             "deckname": "Budget Token Taunt Druid Deck List Guide (The Witchwood)",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/budget-token-taunt-druid-deck-list-guide/",
             "deckbuildfee": 1440,
-            "deckscore": 2
+            "deckscore": 1
         },
         {
             "deckname": "Firebat\u2019s Witchwood Token Druid ft. Wispering Woods",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/firebats-witchwood-token-druid-ft-wispering-woods/",
             "deckbuildfee": 6920,
-            "deckscore": 24
+            "deckscore": 26
         },
         {
             "deckname": "Asmodai\u2019s Witchwood Cube Taunt Druid (April 2018)",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/asmodais-witchwood-cube-taunt-druid-april-2018/",
             "deckbuildfee": 9800,
-            "deckscore": 44
+            "deckscore": 43
         },
         {
             "deckname": "Steelo\u2019s Witchwood Elemental Spiteful Druid",
@@ -52,13 +58,13 @@
             "deckname": "Dalesom\u2019s Witchwood Malygos Quest Druid ft. Muck Hunter",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/dalesoms-witchwood-malygos-quest-druid-ft-muck-hunter/",
             "deckbuildfee": 14040,
-            "deckscore": 18
+            "deckscore": 17
         },
         {
             "deckname": "Mryagut\u2019s Witchwood Spiteful Druid ft. Scaleworm, Wyrmguard",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/mryaguts-witchwood-spiteful-druid-ft-scaleworm-wyrmguard/",
             "deckbuildfee": 7320,
-            "deckscore": 74
+            "deckscore": 75
         },
         {
             "deckname": "Thijs\u2019 Witchwood Baku Odd Taunt Druid ft. Gloom Stag, Hadronox",
@@ -94,7 +100,7 @@
             "deckname": "Updated: Brian Kibler\u2019s Witchwood Hand Druid ft. Wispering Woods, Bewitched Guardian",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/brian-kiblers-witchwood-hand-druid-ft-tanglefur-mystic-wispering-woods-bewitched-guardian/",
             "deckbuildfee": 3820,
-            "deckscore": 13
+            "deckscore": 14
         },
         {
             "deckname": "Kripp\u2019s Witchwood Odd Beast Taunt Druid ft. Gloom Stag, Witching Hour, Dollmaster Dorian",
@@ -160,7 +166,7 @@
             "deckname": "Thijs\u2019 #29 Legend Mill Druid (March 2018)",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/thijs-29-legend-mill-druid-march-2018/",
             "deckbuildfee": 10760,
-            "deckscore": 16
+            "deckscore": 17
         },
         {
             "deckname": "Zarathustra\u2019s C\u2019Thun Spiteful Druid",
@@ -220,7 +226,7 @@
             "deckname": "Spiteful Druid Deck List Guide \u2013 The Witchwood \u2013 April 2018",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/spiteful-druid-deck-list-guide/",
             "deckbuildfee": 8100,
-            "deckscore": 120
+            "deckscore": 124
         },
         {
             "deckname": "J4CKIECHAN\u2019s Post-Nerf Big Druid (February 2018)",
@@ -443,12 +449,6 @@
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/dogs-jade-druid-wesg-usa-qualifiers-2017/",
             "deckbuildfee": 11060,
             "deckscore": 8
-        },
-        {
-            "deckname": "Bunnyhoppor\u2019s Jade Druid \u2013 SeatStory Cup 8",
-            "deckaddress": "http://www.hearthstonetopdecks.com/decks/bunnyhoppors-jade-druid-seatstory-cup-8/",
-            "deckbuildfee": 7700,
-            "deckscore": 12
         },
         {
             "deckname": "Bunnyhoppor\u2019s Jade Druid \u2013 SeatStory Cup 8",
@@ -6749,6 +6749,12 @@
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/yawn/",
             "deckbuildfee": 8820,
             "deckscore": 0
+        },
+        {
+            "deckname": "Kolento\u2019s Ramp Druid",
+            "deckaddress": "http://www.hearthstonetopdecks.com/decks/kolentos-ramp-druid/",
+            "deckbuildfee": 8260,
+            "deckscore": 2
         }
     ],
     "hunter": [
@@ -6756,7 +6762,7 @@
             "deckname": "rayC\u2019s Witchwood Legend Odd Baku Face Hunter",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/raycs-witchwood-legend-odd-baku-face-hunter/",
             "deckbuildfee": 4040,
-            "deckscore": 9
+            "deckscore": 8
         },
         {
             "deckname": "Rdu\u2019s Witchwood Spell Hunter ft. Wing Blast",
@@ -6798,7 +6804,7 @@
             "deckname": "Pymbette\u2019s Legend Secret Hunter (April 2018)",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/pymbettes-legend-secret-hunter-april-2018/",
             "deckbuildfee": 3820,
-            "deckscore": 8
+            "deckscore": 7
         },
         {
             "deckname": "TheBest\u2019s #3 Legend Secret Hunter (March 2018)",
@@ -10610,7 +10616,7 @@
             "deckname": "Apxvoid\u2019s #21 Legend Witchwood Big Spell Control Mage ft. Witchwood Piper, Toki, Time-Tinker",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/apxvoids-21-legend-witchwood-big-spell-control-mage-ft-witchwood-piper-toki-time-tinker/",
             "deckbuildfee": 16220,
-            "deckscore": 6
+            "deckscore": 7
         },
         {
             "deckname": "rayC\u2019s Witchwood #16 Legend Control Big Spells Mage ft. Voodoo Doll",
@@ -10640,7 +10646,7 @@
             "deckname": "Apxvoid\u2019s Witchwood Elemental Tempo Mage (April 2018)",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/apxvoids-witchwood-elemental-tempo-mage-april-2018/",
             "deckbuildfee": 3360,
-            "deckscore": 31
+            "deckscore": 30
         },
         {
             "deckname": "Steelo\u2019s Witchwood Spiteful Even Mage ft. Genn, Toki, Time-Tinker, & Archmage Arugal",
@@ -10700,7 +10706,7 @@
             "deckname": "Big Spell Mage Deck List Guide \u2013 The Witchwood \u2013 April 2018",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/witchwood-big-spell-mage-deck-list-guide/",
             "deckbuildfee": 11960,
-            "deckscore": 57
+            "deckscore": 59
         },
         {
             "deckname": "Savjz\u2019s 20-Mana Molten Quest Mage (April 2018)",
@@ -11120,7 +11126,7 @@
             "deckname": "Beginner Mage Deck List Guide & Tips 2017",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/beginners-mage-deck-list-guide-tips/",
             "deckbuildfee": 0,
-            "deckscore": 56
+            "deckscore": 55
         },
         {
             "deckname": "Ko10rino082\u2019s Wild #1 Legend Secret Tempo Mage (November 2017)",
@@ -12230,7 +12236,7 @@
             "deckname": "Tempo Mage Deck List Guide \u2013 The Witchwood \u2013 April 2018",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/witchwood-tempo-mage-deck-list-guide-standard/",
             "deckbuildfee": 5680,
-            "deckscore": 1251
+            "deckscore": 1253
         },
         {
             "deckname": "Xixo\u2019s Discover Burn Mage \u2013 CN vs. EU Playoffs 2017",
@@ -12434,7 +12440,7 @@
             "deckname": "Budget Elemental Mage Deck List Guide (The Witchwood)",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/budget-elemental-mage-deck-list-guide/",
             "deckbuildfee": 1600,
-            "deckscore": 152
+            "deckscore": 151
         },
         {
             "deckname": "Monsanto\u2019s Un\u2019Goro Glyph Freeze Mage (April 2017, Season 37)",
@@ -16096,37 +16102,37 @@
             "deckname": "RDee\u2019s #6 Legend Even Paladin ft. the Glass Knight, Vicious Scalehide",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/rdees-6-legend-even-paladin-ft-the-glass-knight-vicious-scalehide/",
             "deckbuildfee": 10540,
-            "deckscore": 3
+            "deckscore": 6
         },
         {
             "deckname": "BoarControl\u2019s #6 Legend Witchwood Murloc Paladin ft. Nightmare Amalgam",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/boarcontrols-6-legend-witchwood-murloc-paladin-ft-nightmare-amalgam/",
             "deckbuildfee": 6200,
-            "deckscore": 0
+            "deckscore": 1
         },
         {
             "deckname": "Ike\u2019s Witchwood Midrange Even Paladin ft. Val\u2019anyr",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/ikes-witchwood-midrange-even-paladin-ft-valanyr/",
             "deckbuildfee": 8720,
-            "deckscore": 9
+            "deckscore": 10
         },
         {
             "deckname": "NikolaHoej\u2019s Witchwood #65 Legend Murloc Paladin",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/nikolahoejs-witchwood-65-legend-murloc-paladin/",
             "deckbuildfee": 6080,
-            "deckscore": 15
+            "deckscore": 16
         },
         {
             "deckname": "Even Paladin Deck List Guide (Genn Greymane) \u2013 The Witchwood \u2013 April 2018",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/even-paladin-deck-list-guide/",
             "deckbuildfee": 8220,
-            "deckscore": 28
+            "deckscore": 29
         },
         {
             "deckname": "Baku Odd Paladin Deck List Guide \u2013 The Witchwood \u2013 April 2018",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/odd-paladin-deck-list-guide/",
             "deckbuildfee": 4420,
-            "deckscore": 146
+            "deckscore": 154
         },
         {
             "deckname": "Gyong\u2019s #6 Legend Witchwood Aggro Paladin (April 2018)",
@@ -16138,7 +16144,7 @@
             "deckname": "Budget Dude Paladin Deck List Guide (The Witchwood)",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/budget-dude-paladin-deck-list-guide/",
             "deckbuildfee": 1780,
-            "deckscore": 33
+            "deckscore": 32
         },
         {
             "deckname": "Amaz\u2019s Witchwood Secret Paladin ft. Bellringer Sentry",
@@ -16156,7 +16162,7 @@
             "deckname": "Aojiru\u2019s #1 Legend Baku Odd Paladin (April 2018)",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/aojirus-1-legend-baku-odd-paladin-april-2018/",
             "deckbuildfee": 4960,
-            "deckscore": 46
+            "deckscore": 47
         },
         {
             "deckname": "Moyen\u2019s Witchwood Baku Odd Paladin (April 2018)",
@@ -16168,13 +16174,13 @@
             "deckname": "Gallon\u2019s Witchwood #1 Legend Baku Odd Paladin ft. Witch\u2019s Cauldron",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/gallons-witchwood-1-legend-baku-odd-paladin-ft-witchs-cauldron/",
             "deckbuildfee": 4800,
-            "deckscore": 163
+            "deckscore": 167
         },
         {
             "deckname": "StrifeCro\u2019s Witchwood Even Midrange Paladin ft. Genn Greymane",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/strifecros-witchwood-even-midrange-paladin-ft-genn-greymane/",
             "deckbuildfee": 7040,
-            "deckscore": 32
+            "deckscore": 33
         },
         {
             "deckname": "BoarControl\u2019s Witchwood Baku Odd Token Paladin \u2013 ft. Marsh Drake",
@@ -20670,19 +20676,19 @@
             "deckname": "Justine\u2019s #30 Legend Witchwood Combo Priest",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/justines-30-legend-witchwood-combo-priest/",
             "deckbuildfee": 8880,
-            "deckscore": 1
+            "deckscore": 2
         },
         {
             "deckname": "Mind Blast Control Priest Deck List Guide \u2013 The Witchwood \u2013 April 2018",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/mind-blast-control-priest-deck-list-guide/",
             "deckbuildfee": 8180,
-            "deckscore": 61
+            "deckscore": 63
         },
         {
             "deckname": "HotMEOWTH\u2019s Witchwood Top 50 Legend Combo Dragon Priest",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/hotmeowths-witchwood-top-50-legend-combo-dragon-priest/",
             "deckbuildfee": 5100,
-            "deckscore": 20
+            "deckscore": 19
         },
         {
             "deckname": "Theo\u2019s #1 Legend Witchwood Control Dragon Priest (April 2018)",
@@ -20706,7 +20712,7 @@
             "deckname": "Level9001\u2019s #8 Legend Witchwood Lady in White Spiteful Priest",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/level9001s-8-legend-witchwood-lady-in-white-spiteful-priest/",
             "deckbuildfee": 10580,
-            "deckscore": 64
+            "deckscore": 63
         },
         {
             "deckname": "Updated: Mryagut\u2019s Witchwood Combo Priest ft. Divine Hymn, Unpowered Steambot",
@@ -20862,7 +20868,7 @@
             "deckname": "Wild Big Priest Deck List Guide \u2013 Kobolds",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/wild-big-priest-deck-list-guide/",
             "deckbuildfee": 10680,
-            "deckscore": 14
+            "deckscore": 13
         },
         {
             "deckname": "Dragon Control Priest Deck List Guide \u2013 The Witchwood \u2013 April 2018",
@@ -22854,7 +22860,7 @@
             "deckname": "Combo Dragon Priest Deck List Guide \u2013 The Witchwood \u2013 April 2018",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/dragon-priest-deck-list-guide-standard/",
             "deckbuildfee": 3000,
-            "deckscore": 185
+            "deckscore": 184
         },
         {
             "deckname": "IAmTheKing\u2019s Medivh Control Priest (July 2017, Season 40)",
@@ -25760,7 +25766,7 @@
             "deckname": "IonCannon\u2019s #1 Legend Witchwood Quest Rogue ft. Vicious Scalehide",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/ioncannons-1-legend-witchwood-quest-rogue-ft-vicious-scalehide/",
             "deckbuildfee": 6480,
-            "deckscore": 2
+            "deckscore": 3
         },
         {
             "deckname": "Excelia\u2019s #50 Legend Witchwood Odd Rogue",
@@ -25784,7 +25790,7 @@
             "deckname": "Feno\u2019s Witchwood Quest Rogue ft. Vicious Scalehide",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/fenos-witchwood-quest-rogue-ft-vicious-scalehide/",
             "deckbuildfee": 6560,
-            "deckscore": 6
+            "deckscore": 7
         },
         {
             "deckname": "Aojiru\u2019s Witchwood #1 Legend Odd Tempo Rogue",
@@ -25814,7 +25820,7 @@
             "deckname": "Updated: Dog\u2019s Witchwood Tess Greymane Tempo Rogue ft. Hench-Clan Thug",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/dogs-witchwood-tess-greymane-tempo-rogue-ft-hench-clan-thug-april-2018/",
             "deckbuildfee": 7940,
-            "deckscore": 140
+            "deckscore": 142
         },
         {
             "deckname": "Mryagut\u2019s Witchwood Tess Greymane Tempo Rogue (April 2018)",
@@ -25826,7 +25832,7 @@
             "deckname": "Tess Miracle Rogue Deck List Guide \u2013 The Witchwood \u2013 April 2018",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/tess-miracle-rogue-deck-list-guide/",
             "deckbuildfee": 8880,
-            "deckscore": 57
+            "deckscore": 58
         },
         {
             "deckname": "Malygos Rogue \u2013 Miniature Warfare (Standard) Tavern Brawl",
@@ -27212,7 +27218,7 @@
             "deckname": "Budget Aggro/Tempo Rogue Deck List Guide (The Witchwood)",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/budget-tempo-rogue-deck-list-guide/",
             "deckbuildfee": 1400,
-            "deckscore": 187
+            "deckscore": 188
         },
         {
             "deckname": "Zalae\u2019s Crystal Core Quest Rogue (April 2017, Season 37)",
@@ -27245,9 +27251,9 @@
             "deckscore": 101
         },
         {
-            "deckname": "Caverns Below (Quest) Rogue Deck List Guide",
-            "deckaddress": "http://www.hearthstonetopdecks.com/decks/caverns-quest-rogue-deck-list-guide-standard/",
-            "deckbuildfee": 5040,
+            "deckname": "Quest Rogue Deck List Guide \u2013 The Witchwood \u2013 April 2018",
+            "deckaddress": "http://www.hearthstonetopdecks.com/decks/quest-rogue-deck-list-guide/",
+            "deckbuildfee": 8080,
             "deckscore": 139
         },
         {
@@ -30718,19 +30724,19 @@
             "deckname": "cocosasa\u2019s #15 Legend Even Shaman ft. Hagatha the Witch",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/cocosasas-15-legend-even-shaman-ft-hagatha-the-witch/",
             "deckbuildfee": 9240,
-            "deckscore": 9
+            "deckscore": 11
         },
         {
             "deckname": "Amnesiac\u2019s Witchwood Even Shaman ft. Earthen Might, Zap!",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/amnesiacs-witchwood-even-shaman-ft-earthen-might-zap/",
             "deckbuildfee": 5480,
-            "deckscore": 3
+            "deckscore": 2
         },
         {
             "deckname": "GingaNinja\u2019s Witchwood #30 Legend Midrange Elemental Shudderwock Shaman",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/ginganinjas-witchwood-30-legend-midrange-elemental-shudderwock-shaman/",
             "deckbuildfee": 9200,
-            "deckscore": 8
+            "deckscore": 9
         },
         {
             "deckname": "Budget Elemental Shaman Deck List Guide (The Witchwood)",
@@ -30742,25 +30748,25 @@
             "deckname": "Zyrios\u2019 Top 100 Legend Shudderwock/Hagatha Battlecry Shaman",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/zyrios-top-100-legend-shudderwock-hagatha-battlecry-shaman/",
             "deckbuildfee": 12760,
-            "deckscore": 19
+            "deckscore": 18
         },
         {
             "deckname": "Battlecry Shudderwock Combo Shaman Deck List Guide \u2013 The Witchwood \u2013 April 2018",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/battlecry-shudderwock-combo-shaman-deck-list-guide/",
             "deckbuildfee": 9040,
-            "deckscore": 53
+            "deckscore": 54
         },
         {
             "deckname": "wiRer\u2019s Witchwood Overload Giant Shaman ft. Zap!, Hagatha the Witch",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/wirers-witchwood-overload-giant-shaman-ft-zap-hagatha-the-witch/",
             "deckbuildfee": 7600,
-            "deckscore": 22
+            "deckscore": 23
         },
         {
             "deckname": "Burr0\u2019s Top 50 Legend Even Shaman ft. Murkspark Eel",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/burr0s-top-50-legend-even-shaman-ft-murkspark-eel/",
             "deckbuildfee": 7720,
-            "deckscore": 14
+            "deckscore": 15
         },
         {
             "deckname": "Updated: TicTac\u2019s Witchwood Battlecry Shudderwock Shaman ft. Lifedrinker, Sandbinder",
@@ -30976,7 +30982,7 @@
             "deckname": "Beginner Shaman Deck List Guide & Tips 2017",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/beginner-shaman-deck-list-guide-tips-2017/",
             "deckbuildfee": 0,
-            "deckscore": 22
+            "deckscore": 21
         },
         {
             "deckname": "Thijs\u2019 70% Winrate Marin Control Evolve Shaman (November 2017)",
@@ -35946,7 +35952,7 @@
             "deckname": "KillerWeed\u2019s Witchwood Genn Even Handlock",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/killerweeds-witchwood-genn-even-handlock/",
             "deckbuildfee": 6220,
-            "deckscore": 41
+            "deckscore": 42
         },
         {
             "deckname": "Senfglas\u2019 Witchwood Even Genn Control Warlock ft. Mossy Horror",
@@ -35976,13 +35982,13 @@
             "deckname": "Updated: Zalae\u2019s Witchwood Lord Godfrey Cubelock (April 2018)",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/zalaes-witchwood-lord-godfrey-cubelock-april-2018/",
             "deckbuildfee": 10760,
-            "deckscore": 103
+            "deckscore": 104
         },
         {
             "deckname": "Infliction (Self-Damage) Warlock Deck List Guide \u2013 The Witchwood \u2013 April 2018",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/infliction-self-damage-warlock-deck-list-guide/",
             "deckbuildfee": 7920,
-            "deckscore": -11
+            "deckscore": -12
         },
         {
             "deckname": "Orange\u2019s Cube Molten Handlock (April 2018)",
@@ -37032,7 +37038,7 @@
             "deckname": "Budget Zoo Warlock Deck List Guide (The Witchwood)",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/budget-zoo-warlock-deck-list-guide/",
             "deckbuildfee": 1400,
-            "deckscore": 173
+            "deckscore": 174
         },
         {
             "deckname": "Frodan\u2019s KFT Meat Wagon Warlock",
@@ -37770,7 +37776,7 @@
             "deckname": "Warlock Zoo Deck List Guide \u2013 The Witchwood \u2013 April 2018",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/warlock-zoo-deck-list-guide-standard/",
             "deckbuildfee": 4760,
-            "deckscore": 1736
+            "deckscore": 1739
         },
         {
             "deckname": "Savjz\u2019s Kazakus Renolock (December 2016, Season 33) Mean Streets of Gadgetzan",
@@ -42002,13 +42008,13 @@
             "deckname": "Furyhunter\u2019s #1 Legend Witchwood Baku Odd Control Warrior",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/furyhunters-1-legend-witchwood-baku-odd-control-warrior/",
             "deckbuildfee": 14960,
-            "deckscore": 24
+            "deckscore": 26
         },
         {
             "deckname": "Budget Aggro Face Warrior Deck List Guide (The Witchwood)",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/budget-aggro-face-warrior-deck-list-guide/",
             "deckbuildfee": 1440,
-            "deckscore": 5
+            "deckscore": 4
         },
         {
             "deckname": "Kyouma\u2019s Witchwood #11 Legend Odd Baku Quest Warrior",
@@ -42026,7 +42032,7 @@
             "deckname": "Findan\u2019s Witchwood Rush Tempo Warrior (April 2018)",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/findans-witchwood-rush-tempo-warrior-april-2018/",
             "deckbuildfee": 6920,
-            "deckscore": 19
+            "deckscore": 18
         },
         {
             "deckname": "Dalesom\u2019s Control Baku Odd Warrior ft. Darius Crowley, Muck Hunter, Countess Ashmore",
@@ -42044,13 +42050,13 @@
             "deckname": "Updated: Fibonacci\u2019s Witchwood Control Baku Odd Warrior ft. Azalina Soulthief",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/fibonaccis-witchwood-control-baku-odd-warrior-ft-azalina-soulthief-countess-ashmore/",
             "deckbuildfee": 14160,
-            "deckscore": 25
+            "deckscore": 24
         },
         {
             "deckname": "Day9\u2019s Witchwood Tempo Rush Warrior ft. Darius Crowley, Redband Wasp",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/day9s-witchwood-tempo-rush-warrior-ft-darius-crowley-redband-wasp/",
             "deckbuildfee": 5880,
-            "deckscore": 13
+            "deckscore": 14
         },
         {
             "deckname": "Brian Kibler\u2019s Witchwood Blackhowl Gunspire Rotface Warrior (April 2018)",
@@ -42074,13 +42080,13 @@
             "deckname": "Odd Quest Warrior Deck List Guide \u2013 The Witchwood \u2013 April 2018",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/odd-quest-warrior-deck-list-guide/",
             "deckbuildfee": 10080,
-            "deckscore": 127
+            "deckscore": 129
         },
         {
             "deckname": "Rush Tempo Warrior Deck List Guide \u2013 The Witchwood \u2013 April 2018",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/rush-tempo-warrior-deck-list-guide/",
             "deckbuildfee": 6920,
-            "deckscore": 67
+            "deckscore": 66
         },
         {
             "deckname": "Jinsoo\u2019s Wild N\u2019Zoth Control Warrior \u2013 Hearthstone Wild Open Finals 2018",
@@ -43760,7 +43766,7 @@
             "deckname": "Quest Warrior Deck List Guide \u2013 The Witchwood \u2013 April 2018",
             "deckaddress": "http://www.hearthstonetopdecks.com/decks/quest-warrior-deck-list-guide-witchwood/",
             "deckbuildfee": 6840,
-            "deckscore": 175
+            "deckscore": 177
         },
         {
             "deckname": "StanCifka\u2019s Un\u2019Goro Aggro Pirate Warrior \u2013 Throne of Cards IV",

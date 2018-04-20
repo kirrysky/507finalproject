@@ -21,8 +21,10 @@ def hero():
         xx=[]
         yy=[]
         for each in results:
-            xx.append(each[0])
-            yy.append(each[1])
+            deckname=str(each.get_deckname())
+            deckscore=int(each.get_deckscore())
+            xx.append(deckname)
+            yy.append(deckscore)
         Data = [go.Bar(x=xx,y=yy)]
         fig = go.Figure(data=Data)
         hero_pic = plotly.offline.plot(fig, show_link=False, output_type="div", include_plotlyjs="static/plotly-latest.min.js")

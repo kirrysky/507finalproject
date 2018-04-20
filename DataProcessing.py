@@ -5,6 +5,20 @@ import json
 DBNAME = 'hearthstone.db'
 HEROS=['druid','hunter','mage','paladin','priest','rogue','shaman','warlock','warrior']
 
+class Deck:
+    def __init__(self,row):
+        self.process_data(row)
+
+    def process_data(self,row):
+        self.deckname=row[0]
+        self.deckscore=row[1]
+
+    def get_deckname(self):
+        return self.deckname
+
+    def get_deckscore(self):
+        return self.deckscore
+
 #the first process
 def process_top_10_decks(hero_name):
     results=[]
@@ -24,7 +38,8 @@ def process_top_10_decks(hero_name):
     param=(hero_name,)
     cur.execute(statement, param)
     for row in cur:
-        results.append(row)
+        d=Deck(row)
+        results.append(d)
 
     conn.commit()
     conn.close()

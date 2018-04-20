@@ -4723,127 +4723,6 @@
                 "address": "http://www.hearthstonetopdecks.com/cards/ysera/"
             }
         ],
-        "Update: Neviilz\u2019s Anyfin Can Happen OTK Paladin": [
-            {
-                "kind": "Class",
-                "cost": 1,
-                "name": "Humility",
-                "count": 1,
-                "address": "http://www.hearthstonetopdecks.com/cards/humility/"
-            },
-            {
-                "kind": "Class",
-                "cost": 2,
-                "name": "Equality",
-                "count": 2,
-                "address": "http://www.hearthstonetopdecks.com/cards/equality/"
-            },
-            {
-                "kind": "Class",
-                "cost": 3,
-                "name": "Aldor Peacekeeper",
-                "count": 2,
-                "address": "http://www.hearthstonetopdecks.com/cards/aldor-peacekeeper/"
-            },
-            {
-                "kind": "Class",
-                "cost": 4,
-                "name": "Consecration",
-                "count": 2,
-                "address": "http://www.hearthstonetopdecks.com/cards/consecration/"
-            },
-            {
-                "kind": "Class",
-                "cost": 4,
-                "name": "Keeper of Uldaman",
-                "count": 1,
-                "address": "http://www.hearthstonetopdecks.com/cards/keeper-of-uldaman/"
-            },
-            {
-                "kind": "Class",
-                "cost": 4,
-                "name": "Truesilver Champion",
-                "count": 2,
-                "address": "http://www.hearthstonetopdecks.com/cards/truesilver-champion/"
-            },
-            {
-                "kind": "Class",
-                "cost": 5,
-                "name": "Solemn Vigil",
-                "count": 2,
-                "address": "http://www.hearthstonetopdecks.com/cards/solemn-vigil/"
-            },
-            {
-                "kind": "Class",
-                "cost": 8,
-                "name": "Lay on Hands",
-                "count": 2,
-                "address": "http://www.hearthstonetopdecks.com/cards/lay-on-hands/"
-            },
-            {
-                "kind": "Class",
-                "cost": 10,
-                "name": "Anyfin Can Happen",
-                "count": 2,
-                "address": "http://www.hearthstonetopdecks.com/cards/anyfin-can-happen/"
-            },
-            {
-                "kind": "Neutral",
-                "cost": 2,
-                "name": "Bluegill Warrior",
-                "count": 2,
-                "address": "http://www.hearthstonetopdecks.com/cards/bluegill-warrior/"
-            },
-            {
-                "kind": "Neutral",
-                "cost": 2,
-                "name": "Doomsayer",
-                "count": 2,
-                "address": "http://www.hearthstonetopdecks.com/cards/doomsayer/"
-            },
-            {
-                "kind": "Neutral",
-                "cost": 2,
-                "name": "Wild Pyromancer",
-                "count": 2,
-                "address": "http://www.hearthstonetopdecks.com/cards/wild-pyromancer/"
-            },
-            {
-                "kind": "Neutral",
-                "cost": 3,
-                "name": "Acolyte of Pain",
-                "count": 1,
-                "address": "http://www.hearthstonetopdecks.com/cards/acolyte-of-pain/"
-            },
-            {
-                "kind": "Neutral",
-                "cost": 3,
-                "name": "Murloc Warleader",
-                "count": 2,
-                "address": "http://www.hearthstonetopdecks.com/cards/murloc-warleader/"
-            },
-            {
-                "kind": "Neutral",
-                "cost": 4,
-                "name": "Old Murk-Eye",
-                "count": 1,
-                "address": "http://www.hearthstonetopdecks.com/cards/old-murk-eye/"
-            },
-            {
-                "kind": "Neutral",
-                "cost": 5,
-                "name": "Antique Healbot",
-                "count": 2,
-                "address": "http://www.hearthstonetopdecks.com/cards/antique-healbot/"
-            },
-            {
-                "kind": "Neutral",
-                "cost": 5,
-                "name": "Sludge Belcher",
-                "count": 2,
-                "address": "http://www.hearthstonetopdecks.com/cards/sludge-belcher/"
-            }
-        ],
         "Gallon\u2019s Witchwood #1 Legend Baku Odd Paladin ft. Witch\u2019s Cauldron": [
             {
                 "kind": "Class",
@@ -4970,6 +4849,127 @@
                 "name": "Baku the Mooneater",
                 "count": 1,
                 "address": "http://www.hearthstonetopdecks.com/cards/baku-the-mooneater/"
+            }
+        ],
+        "Update: Neviilz\u2019s Anyfin Can Happen OTK Paladin": [
+            {
+                "kind": "Class",
+                "cost": 1,
+                "name": "Humility",
+                "count": 1,
+                "address": "http://www.hearthstonetopdecks.com/cards/humility/"
+            },
+            {
+                "kind": "Class",
+                "cost": 2,
+                "name": "Equality",
+                "count": 2,
+                "address": "http://www.hearthstonetopdecks.com/cards/equality/"
+            },
+            {
+                "kind": "Class",
+                "cost": 3,
+                "name": "Aldor Peacekeeper",
+                "count": 2,
+                "address": "http://www.hearthstonetopdecks.com/cards/aldor-peacekeeper/"
+            },
+            {
+                "kind": "Class",
+                "cost": 4,
+                "name": "Consecration",
+                "count": 2,
+                "address": "http://www.hearthstonetopdecks.com/cards/consecration/"
+            },
+            {
+                "kind": "Class",
+                "cost": 4,
+                "name": "Keeper of Uldaman",
+                "count": 1,
+                "address": "http://www.hearthstonetopdecks.com/cards/keeper-of-uldaman/"
+            },
+            {
+                "kind": "Class",
+                "cost": 4,
+                "name": "Truesilver Champion",
+                "count": 2,
+                "address": "http://www.hearthstonetopdecks.com/cards/truesilver-champion/"
+            },
+            {
+                "kind": "Class",
+                "cost": 5,
+                "name": "Solemn Vigil",
+                "count": 2,
+                "address": "http://www.hearthstonetopdecks.com/cards/solemn-vigil/"
+            },
+            {
+                "kind": "Class",
+                "cost": 8,
+                "name": "Lay on Hands",
+                "count": 2,
+                "address": "http://www.hearthstonetopdecks.com/cards/lay-on-hands/"
+            },
+            {
+                "kind": "Class",
+                "cost": 10,
+                "name": "Anyfin Can Happen",
+                "count": 2,
+                "address": "http://www.hearthstonetopdecks.com/cards/anyfin-can-happen/"
+            },
+            {
+                "kind": "Neutral",
+                "cost": 2,
+                "name": "Bluegill Warrior",
+                "count": 2,
+                "address": "http://www.hearthstonetopdecks.com/cards/bluegill-warrior/"
+            },
+            {
+                "kind": "Neutral",
+                "cost": 2,
+                "name": "Doomsayer",
+                "count": 2,
+                "address": "http://www.hearthstonetopdecks.com/cards/doomsayer/"
+            },
+            {
+                "kind": "Neutral",
+                "cost": 2,
+                "name": "Wild Pyromancer",
+                "count": 2,
+                "address": "http://www.hearthstonetopdecks.com/cards/wild-pyromancer/"
+            },
+            {
+                "kind": "Neutral",
+                "cost": 3,
+                "name": "Acolyte of Pain",
+                "count": 1,
+                "address": "http://www.hearthstonetopdecks.com/cards/acolyte-of-pain/"
+            },
+            {
+                "kind": "Neutral",
+                "cost": 3,
+                "name": "Murloc Warleader",
+                "count": 2,
+                "address": "http://www.hearthstonetopdecks.com/cards/murloc-warleader/"
+            },
+            {
+                "kind": "Neutral",
+                "cost": 4,
+                "name": "Old Murk-Eye",
+                "count": 1,
+                "address": "http://www.hearthstonetopdecks.com/cards/old-murk-eye/"
+            },
+            {
+                "kind": "Neutral",
+                "cost": 5,
+                "name": "Antique Healbot",
+                "count": 2,
+                "address": "http://www.hearthstonetopdecks.com/cards/antique-healbot/"
+            },
+            {
+                "kind": "Neutral",
+                "cost": 5,
+                "name": "Sludge Belcher",
+                "count": 2,
+                "address": "http://www.hearthstonetopdecks.com/cards/sludge-belcher/"
             }
         ]
     },
@@ -7499,7 +7499,7 @@
                 "address": "http://www.hearthstonetopdecks.com/cards/leeroy-jenkins/"
             }
         ],
-        "Caverns Below (Quest) Rogue Deck List Guide": [
+        "Quest Rogue Deck List Guide \u2013 The Witchwood \u2013 April 2018": [
             {
                 "kind": "Class",
                 "cost": 0,
@@ -7517,13 +7517,6 @@
             {
                 "kind": "Class",
                 "cost": 1,
-                "name": "Swashburglar",
-                "count": 2,
-                "address": "http://www.hearthstonetopdecks.com/cards/swashburglar/"
-            },
-            {
-                "kind": "Class",
-                "cost": 1,
                 "name": "The Caverns Below",
                 "count": 1,
                 "address": "http://www.hearthstonetopdecks.com/cards/the-caverns-below/"
@@ -7531,9 +7524,16 @@
             {
                 "kind": "Class",
                 "cost": 2,
-                "name": "Gadgetzan Ferryman",
-                "count": 2,
-                "address": "http://www.hearthstonetopdecks.com/cards/gadgetzan-ferryman/"
+                "name": "Sap",
+                "count": 1,
+                "address": "http://www.hearthstonetopdecks.com/cards/sap/"
+            },
+            {
+                "kind": "Class",
+                "cost": 3,
+                "name": "Fan of Knives",
+                "count": 1,
+                "address": "http://www.hearthstonetopdecks.com/cards/fan-of-knives/"
             },
             {
                 "kind": "Class",
@@ -7544,17 +7544,31 @@
             },
             {
                 "kind": "Class",
+                "cost": 3,
+                "name": "Sonya Shadowdancer",
+                "count": 1,
+                "address": "http://www.hearthstonetopdecks.com/cards/sonya-shadowdancer/"
+            },
+            {
+                "kind": "Class",
+                "cost": 4,
+                "name": "Elven Minstrel",
+                "count": 2,
+                "address": "http://www.hearthstonetopdecks.com/cards/elven-minstrel/"
+            },
+            {
+                "kind": "Class",
                 "cost": 6,
                 "name": "Vanish",
                 "count": 2,
                 "address": "http://www.hearthstonetopdecks.com/cards/vanish/"
             },
             {
-                "kind": "Neutral",
-                "cost": 1,
-                "name": "Fire Fly",
-                "count": 2,
-                "address": "http://www.hearthstonetopdecks.com/cards/fire-fly/"
+                "kind": "Class",
+                "cost": 9,
+                "name": "Valeera the Hollow",
+                "count": 1,
+                "address": "http://www.hearthstonetopdecks.com/cards/valeera-the-hollow/"
             },
             {
                 "kind": "Neutral",
@@ -7562,13 +7576,6 @@
                 "name": "Glacial Shard",
                 "count": 2,
                 "address": "http://www.hearthstonetopdecks.com/cards/glacial-shard/"
-            },
-            {
-                "kind": "Neutral",
-                "cost": 1,
-                "name": "Patches the Pirate",
-                "count": 1,
-                "address": "http://www.hearthstonetopdecks.com/cards/patches-the-pirate/"
             },
             {
                 "kind": "Neutral",
@@ -7586,10 +7593,10 @@
             },
             {
                 "kind": "Neutral",
-                "cost": 2,
-                "name": "Bilefin Tidehunter",
+                "cost": 1,
+                "name": "Wax Elemental",
                 "count": 2,
-                "address": "http://www.hearthstonetopdecks.com/cards/bilefin-tidehunter/"
+                "address": "http://www.hearthstonetopdecks.com/cards/wax-elemental/"
             },
             {
                 "kind": "Neutral",
@@ -7601,6 +7608,13 @@
             {
                 "kind": "Neutral",
                 "cost": 2,
+                "name": "Vicious Scalehide",
+                "count": 2,
+                "address": "http://www.hearthstonetopdecks.com/cards/vicious-scalehide/"
+            },
+            {
+                "kind": "Neutral",
+                "cost": 2,
                 "name": "Youthful Brewmaster",
                 "count": 2,
                 "address": "http://www.hearthstonetopdecks.com/cards/youthful-brewmaster/"
@@ -7608,9 +7622,9 @@
             {
                 "kind": "Neutral",
                 "cost": 3,
-                "name": "Igneous Elemental",
-                "count": 2,
-                "address": "http://www.hearthstonetopdecks.com/cards/igneous-elemental/"
+                "name": "Zola the Gorgon",
+                "count": 1,
+                "address": "http://www.hearthstonetopdecks.com/cards/zola-the-gorgon/"
             }
         ]
     },

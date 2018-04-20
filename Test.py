@@ -77,8 +77,8 @@ class TestStoreData(unittest.TestCase):
 class TestProcessData(unittest.TestCase):
     def test_process_top_10_decks(self):
         self.assertEqual(len(dp.process_top_10_decks('druid')),10)
-        self.assertEqual(dp.process_top_10_decks('druid')[1][1],583)
-        self.assertEqual(dp.process_top_10_decks('druid')[2][0],'Midrange Fast Druid Deck List Guide – April 2016 (Season 25, Wild)')
+        self.assertEqual(dp.process_top_10_decks('druid')[1].deckscore,583)
+        self.assertEqual(dp.process_top_10_decks('druid')[2].get_deckname(),'Midrange Fast Druid Deck List Guide – April 2016 (Season 25, Wild)')
 
     def test_process_crystal_usage(self):
         self.assertIn((1,2),dp.process_crystal_usage('Jade Druid Deck List Guide (Post Nerf) – Kobolds – April 2018','Class'))

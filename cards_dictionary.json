@@ -2986,37 +2986,6 @@
         "season": "Classic",
         "intro": "Ysera is a 9 Mana Cost Legendary Neutral Minion Dragon card from the Classic set!"
     },
-    "Anyfin Can Happen": {
-        "mana_cost": 10,
-        "crafting_cost": " 100 / 800 (Golden)",
-        "rarity": "Rare",
-        "hero": "Paladin",
-        "card_type": "Spell",
-        "season": "The League of Explorers",
-        "intro": "Anyfin Can Happen is a 10 Mana Cost Rare Paladin Spell  card from the The League of Explorers set!"
-    },
-    "Bluegill Warrior": {
-        "mana_cost": 2,
-        "attack": 2,
-        "health": 1,
-        "crafting_cost": " 0 / 0 (Golden)",
-        "rarity": "Free",
-        "hero": "Neutral",
-        "card_type": "Minion",
-        "season": "Basic",
-        "intro": "Bluegill Warrior is a 2 Mana Cost Free Neutral Minion Murloc card from the Basic set!"
-    },
-    "Old Murk-Eye": {
-        "mana_cost": 4,
-        "attack": 2,
-        "health": 4,
-        "crafting_cost": " 1600 / 3200 (Golden)",
-        "rarity": "Legendary",
-        "hero": "Neutral",
-        "card_type": "Minion",
-        "season": "Hall of Fame",
-        "intro": "Old Murk-Eye is a 4 Mana Cost Legendary Neutral Minion Murloc card from the Hall of Fame set!"
-    },
     "Light\u2019s Justice": {
         "mana_cost": 1,
         "attack": 1,
@@ -3072,6 +3041,37 @@
         "card_type": "Minion",
         "season": "Minion",
         "intro": "Stormwind Champion is a 7 Mana Cost Free Neutral Minion  card from the Basic set!"
+    },
+    "Anyfin Can Happen": {
+        "mana_cost": 10,
+        "crafting_cost": " 100 / 800 (Golden)",
+        "rarity": "Rare",
+        "hero": "Paladin",
+        "card_type": "Spell",
+        "season": "The League of Explorers",
+        "intro": "Anyfin Can Happen is a 10 Mana Cost Rare Paladin Spell  card from the The League of Explorers set!"
+    },
+    "Bluegill Warrior": {
+        "mana_cost": 2,
+        "attack": 2,
+        "health": 1,
+        "crafting_cost": " 0 / 0 (Golden)",
+        "rarity": "Free",
+        "hero": "Neutral",
+        "card_type": "Minion",
+        "season": "Basic",
+        "intro": "Bluegill Warrior is a 2 Mana Cost Free Neutral Minion Murloc card from the Basic set!"
+    },
+    "Old Murk-Eye": {
+        "mana_cost": 4,
+        "attack": 2,
+        "health": 4,
+        "crafting_cost": " 1600 / 3200 (Golden)",
+        "rarity": "Legendary",
+        "hero": "Neutral",
+        "card_type": "Minion",
+        "season": "Hall of Fame",
+        "intro": "Old Murk-Eye is a 4 Mana Cost Legendary Neutral Minion Murloc card from the Hall of Fame set!"
     },
     "Northshire Cleric": {
         "mana_cost": 1,
@@ -4340,17 +4340,39 @@
         "season": "The Witchwood",
         "intro": "Tess Greymane is a 8 Mana Cost Legendary Rogue Minion  card from the The Witchwood set!"
     },
-    "Bilefin Tidehunter": {
-        "race": "Murloc",
-        "mana_cost": 2,
+    "Sonya Shadowdancer": {
+        "mana_cost": 3,
         "attack": 2,
-        "health": 1,
+        "health": 2,
+        "crafting_cost": " 1600 / 3200 (Golden)",
+        "rarity": "Legendary",
+        "hero": "Rogue",
+        "card_type": "Minion",
+        "season": "Kobolds and Catacombs",
+        "intro": "Sonya Shadowdancer is a 3 Mana Cost Legendary Rogue Minion  card from the Kobolds and Catacombs set!"
+    },
+    "Wax Elemental": {
+        "race": "Elemental",
+        "mana_cost": 1,
+        "attack": 0,
+        "health": 2,
         "crafting_cost": " 40 / 400 (Golden)",
         "rarity": "Common",
         "hero": "Neutral",
         "card_type": "Minion",
-        "season": "Whispers of the Old Gods",
-        "intro": "Bilefin Tidehunter is a 2 Mana Cost Common Neutral Minion Murloc card from the Whispers of the Old Gods set!"
+        "season": "Kobolds and Catacombs",
+        "intro": "Wax Elemental is a 1 Mana Cost Common Neutral Minion Elemental card from the Kobolds and Catacombs set!"
+    },
+    "Zola the Gorgon": {
+        "mana_cost": 3,
+        "attack": 2,
+        "health": 2,
+        "crafting_cost": " 1600 / 3200 (Golden)",
+        "rarity": "Legendary",
+        "hero": "Neutral",
+        "card_type": "Minion",
+        "season": "Kobolds and Catacombs",
+        "intro": "Zola the Gorgon is a 3 Mana Cost Legendary Neutral Minion  card from the Kobolds and Catacombs set!"
     },
     "Evolve": {
         "mana_cost": 1,
